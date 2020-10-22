@@ -1,3 +1,3 @@
 export class fileA {
-  firstCommitInFeatureBranch: boolean;
+  firstCommitInSecondFeatureBranch: boolean;
 }
