@@ -1,3 +1,3 @@
 export class fileA {
-  firstCommit: boolean;
+  secondCommit: boolean;
 }
